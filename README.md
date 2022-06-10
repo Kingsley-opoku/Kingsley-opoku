@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/followers/Kingsley-opoku?label=Followers%20&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Kingsley-opoku&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Kingsley-opoku.Kingsley-opoku" alt="Profile Visitor"/>
 
-  <img align="left" alt="GIF" src="https://github.com/Kingsley-opoku/Kingsley-opoku/blob/main/code.gif?raw=true" width="300" height="200"
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Kingsley-opoku's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kingsley-opoku?cardType=level-alternate&theme=github-dark" />  </a>
+<img align="left" alt="GIF" src="https://github.com/Kingsley-opoku/Kingsley-opoku/blob/main/code.gif?raw=true" width="300" height="200"
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Kingsley-opoku's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kingsley-opoku?cardType=level-alternate&theme=github-dark" />  </a>
 Hey, I'm Kingsley👋
 
 I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
