@@ -29,6 +29,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
    <img src="https://img.shields.io/badge/-OpenCy-0a2463?logo=opency&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Spacy-0a2463?logo=spacy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Sql-0a2463?logo=sql&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Html-0a2463?logo=html&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
